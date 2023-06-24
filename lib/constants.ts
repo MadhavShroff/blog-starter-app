@@ -1,4 +1,4 @@
 export const EXAMPLE_PATH = 'blog-starter'
 export const CMS_NAME = 'Markdown'
 export const HOME_OG_IMAGE_URL =
-  'https://og-image.vercel.app/Next.js%20Blog%20Starter%20Example.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg'
+  'https://www.munichre.com/content/dam/munichre/global/images/royalty-free/GettyImages-1194981230.jpg/_jcr_content/renditions/original.image_file.1280.720.file/GettyImages-1194981230.jpg'
